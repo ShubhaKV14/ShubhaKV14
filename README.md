@@ -38,7 +38,13 @@ Electronics and Communication Engineering
 ## Coding Profiles
 
 - GitHub: https://github.com/ShubhaKV14
-- LeetCode: https://leetcode.com/
+- LeetCode: [Shubha K V](https://leetcode.com/u/Shubha_K_V/)
+
+---
+
+## LeetCode Statistics
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shubha_K_V?theme=dark&font=baloo)](https://leetcode.com/u/Shubha_K_V/)
 
 ---
 
