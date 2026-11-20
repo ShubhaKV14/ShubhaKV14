@@ -12,7 +12,7 @@ Currently developing skills in Python Full Stack Development, with knowledge of 
 
 ## Technical Skills
 
-**Programming:** Python, Java, C
+**Programming:** Python 
 
 **Frontend:** HTML, CSS, JavaScript
 
@@ -32,7 +32,7 @@ Electronics and Communication Engineering
 - Real-time obstacle detection and classification.
 
 **LeetCode Solutions**
-- Python, Java and SQL coding practice.
+- Python and SQL coding practice.
 - Problem-solving and algorithm development.
 
 ## Coding Profiles
